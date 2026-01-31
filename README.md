@@ -1,4 +1,4 @@
-# Fabric_DF_Project_4# 🚀 Microsoft Fabric Data Pipeline – Automated File Ingestion
+Microsoft Fabric Data Pipeline – Automated File Ingestion
 
 <img width="1917" height="998" alt="Success Pipeline" src="https://github.com/user-attachments/assets/141759d2-2b0a-41db-b5a1-f6a79fe970c9" />
 <img width="1919" height="988" alt="Failed Pipeline" src="https://github.com/user-attachments/assets/5a898def-fd89-448a-bc92-ceaaea7dfaa0" />
